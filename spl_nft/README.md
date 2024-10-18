@@ -1,2 +1,2 @@
-# SPLT Token & Nft mint Challenges
+# SPL Token & Nft mint Challenges
 
